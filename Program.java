@@ -1,3 +1,8 @@
 void main(){
-    System.out.println("Hello, World!");
+    int a = 2;
+
+    while(a<=20){
+        System.out.println(a);
+        a += 2;
+    }
 }
